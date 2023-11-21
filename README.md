@@ -12,6 +12,7 @@ Submareina, una mantarraya que anhelaba explorar fuera del océano, experimentó
 ![Robot Ejemplo](/multimedia/robot_ejemplo.png)
 
 ## Integrantes
+\
 - Javiera Cifuentes - FAU
 - Juan Balboa - FCFM
 - Magdalena Ramos - FAU
