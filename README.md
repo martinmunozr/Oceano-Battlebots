@@ -24,7 +24,7 @@
   
 #### Ofensiva
 < Explicar brevemente el arma utilizada.>
-  La metodología ofensiva de Submareina se basa principalmente en su shuriken y en la forma de su coraza. El shuriken ubicado en su parte trasera gira rápidamente, de tal forma que al impactar a otro robot, este sufriría fuertes daños. Por otro lado, la coraza metálica de la que está hecha, tiene una forma aproximadamente piramidal, lo que permite que Submareina pueda embestir a gran velocidad a sus contrincantes levantandolos por abajo, haciéndo que estos pierdan control o incluso se den vuelta.
+La metodología ofensiva de Submareina se basa principalmente en su shuriken y en la forma de su coraza. El shuriken ubicado en su parte trasera gira rápidamente, de tal forma que al impactar a otro robot, este sufriría fuertes daños. Por otro lado, la coraza metálica de la que está hecha, tiene una forma aproximadamente piramidal, lo que permite que Submareina pueda embestir a gran velocidad a sus contrincantes levantandolos por abajo, haciéndo que estos pierdan control o incluso se den vuelta.
 #### Defensiva
 < Explicar el modo de defensa del robot.>
   La facil maniobrabilidad en conjunto con la alta velocidad del robot permite que este pueda escapar y escabullirse de sus enemigos. Además, su revestimiento metálico es muy resistente y cubre efectivamente las zonas vitales, entonces al recibir impactos no se dañaría con facilidad. Por último, su forma piramidal hace que les sea complejo a los otros Battlebots atacar a Submareina, ya que tienen el riesgo de volcarse.
