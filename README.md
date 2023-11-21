@@ -5,8 +5,8 @@
 
 ### Historia del Battlebot
 < Contar la historia de vida de su battlebot.>
-
-  Submareina, una mantarraya que anhelaba explorar fuera del océano, experimentó una sorprendente transformación después de colisionar con una medusa que la electrificó. Su cuerpo se volvió metálico y adquirió ruedas, lo que le permitió salir a la superficie. Confundida pero decidida , Submareina comenzó una aventura para descubrir nuevos ecosistemas, lo que no sabía, era que en cada uno se encontraría a otras criaturas hostiles, con poderes como ella.
+\
+Submareina, una mantarraya que anhelaba explorar fuera del océano, experimentó una sorprendente transformación después de colisionar con una medusa que la electrificó. Su cuerpo se volvió metálico y adquirió ruedas, lo que le permitió salir a la superficie. Confundida pero decidida , Submareina comenzó una aventura para descubrir nuevos ecosistemas, lo que no sabía, era que en cada uno se encontraría a otras criaturas hostiles, con poderes como ella.
 
   
 ![Robot Ejemplo](/multimedia/robot_ejemplo.png)
