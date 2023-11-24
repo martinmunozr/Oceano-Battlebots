@@ -1,7 +1,4 @@
 # Código de la Aplicación
 
-< Subir imagen y descripción de _layout_ de la aplicación.>
-
-< Subir archivo **.aia** de la aplicación a esta carpeta.>
-
+La aplicación permite que controlar al robot para que se mueva hacia adelante y atrás, para que rote en su propio eje hacia la izquierda y derecha y también para que se mueva girando hacia la derecha o izquierda y hacia atrás o adelante. Todo esto con dos opciones de velocidad.
 
