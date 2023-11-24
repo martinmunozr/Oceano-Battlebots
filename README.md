@@ -1,6 +1,6 @@
 # Equipo Océano - Battlebots - 2023
 
-< Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
+
 
 ### Historia del Battlebot
 
